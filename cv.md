@@ -4,5 +4,5 @@
 # zero
 # junior dev
 # incomplete higher education
-# b1
+# B1
 # thank u for hepl me 
