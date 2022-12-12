@@ -5,3 +5,4 @@
 # junior dev
 # incomplete higher education
 # b1
+# thank u for hepl me 
